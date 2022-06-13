@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a752c87ed7b30a67",
+        "id": "26c3bc12adaeb054",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "3718d7c90312542a"
+      },
+      {
+        "id": "41ec1478f69aff5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,7 +24,8 @@
             "file": "README.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "3718d7c90312542a"
       }
     ],
     "direction": "vertical"
@@ -83,11 +96,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "a752c87ed7b30a67",
+  "active": "26c3bc12adaeb054",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "fig/gulfStreamSSH3D_snapshot.png",
+    "fig/gulfStreamSST.png",
+    "fig/SST_snapshot.png"
   ]
 }
